@@ -1,4 +1,9 @@
 # 100 Days Of Code - Log
+**This is round 2 for me with 100 Days of Code.**  This time I'm going to track my progress better by using this fork and by blogging about my progress.
+
+**Why:** The last time I did this challenge was to learn more about customizing WordPress and getting started with Python.  While I didn't get to code everyday, I was successful at completing my goals.  So, I consider round 1 a success.
+
+Although I'm a long time programmer, I realize that development technologies are progressing at a lightening pace.  As a way to keep up (or in some cases catch up), I am going to do the challenges at FreeCodeCamp.  (And probably a couple of courses on Udemy).
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -18,13 +23,3 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
