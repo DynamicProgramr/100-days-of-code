@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 **This is round 2 for me with 100 Days of Code.**  This time I'm going to track my progress better by using this fork and by blogging about my progress.
 
-**Why:** The last time I did this challenge was to learn more about customizing WordPress and getting started with Python.  While I didn't get to code everyday, I was successful at completing my goals.  So, I consider round 1 a success.
+**Why:** The last time I did this challenge was to learn more about customizing WordPress and to get started with Python.  While I didn't get to code everyday, I was successful at completing my goals.  So, I consider round 1 a success.
 
 Although I'm a long time programmer, I realize that development technologies are progressing at a lightening pace.  As a way to keep up (or in some cases catch up), I am going to do the challenges at FreeCodeCamp.  (And probably a couple of courses on Udemy).
 
