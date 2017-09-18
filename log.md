@@ -5,14 +5,11 @@
 
 Although I'm a long time programmer, I realize that development technologies are progressing at a lightening pace.  As a way to keep up (or in some cases catch up), I am going to do the challenges at FreeCodeCamp.  (And probably a couple of courses on Udemy).
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 30, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+So, round 2 didn't start so well... first was Labor Day Weekend.  I didn't program over the holiday weekend.  Then I began preparing for Hurricane Irma, then the hurricane, then the cleanup.  So here we are at September 17 and I've only had two days of actual programming.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+So, I'm going to start again.  Tomorrow, September 18, 2017 will be the new first day of Round 2 of #100DaysOfCode.
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
